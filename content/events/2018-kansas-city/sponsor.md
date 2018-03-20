@@ -25,16 +25,60 @@ Sponsors are responsible for providing high-res logos for use on the website and
   <thead>
     <tr>
       <th><i>packages</i></th>
-      <th><center><b><u><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Basic</a></u></center></b></th>
-      <th><center><b><u><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Standard</a></u></center></b></th>
-      <th><center><b><u><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Premium</a></u></center></b></th>
-      <th><center><b><u><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202018%20Sponsorship">Ultimate</a></u></center></b></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5LCE8CR2ZUH8J">Basic</a></u></center></b></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WJ3T6Q3RA9DMW">Standard</a></u></center></b></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KUJUTPDCQ3MXS">Premium</a></u></center></b></th>
+      <th><center><b><u><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VKA92EMUQMXKG">Ultimate</a></u></center></b></th>
     </tr>
     </thead>
-    <tr>
-      <td></td><td colspan="3"><small>Note: Paypal payments include 3% service charge.</small></td>
-    </tr>
     <tbody>
+    <tr>
+      <td style="border-bottom: 0; border-top: 0;"></td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Basic Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="5LCE8CR2ZUH8J">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Standard Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="WJ3T6Q3RA9DMW">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Premium Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="KUJUTPDCQ3MXS">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+      <td style="padding: 4px 5px 0px 5px;">
+        <!-- Ultimate Paypal button  -->
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="VKA92EMUQMXKG">
+          <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+        </form>
+      </td>
+    </tr>
+    <tr>
+      <td style="border-bottom: 0; border-top: 0;"></td>
+      <td colspan="4" style="padding: 0px 0px 0px 0;"><center><small>Note: Paypal payments include 3% service charge.</small></center></td>
+    </tr>
+    <tr>
+      <td style="border-bottom: 0; border-top: 0;"></td>
+      <td colspan="4" style="padding: 4px 0px 4px 0;text-align: center;"><a href="mailto:organizers@devopsdayskc.org?subject=DevOpsDays%20Kansas%20City%202017%20Sponsorship">Email us</a> if you prefer to pay by check</td>
+    </tr>
     <tr>
       <td>included tickets</td>
       <td bgcolor="8DB3D4"><center><strong style="color:white;">1</strong></center></td>
